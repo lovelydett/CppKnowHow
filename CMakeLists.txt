@@ -4,3 +4,4 @@ project(cpp_know_how)
 
 add_subdirectory(src/smart_pointer)
 add_subdirectory(src/atomic)
+add_subdirectory(src/STL)
